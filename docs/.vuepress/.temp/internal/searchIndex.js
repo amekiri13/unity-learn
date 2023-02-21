@@ -43,6 +43,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "使用Unity编写一个简单的功能",
+    "headers": [],
+    "path": "/basic/hello.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Unity 基本安装",
+    "headers": [],
+    "path": "/basic/install.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "",
     "headers": [],
     "path": "/404.html",
