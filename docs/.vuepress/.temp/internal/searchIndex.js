@@ -36,13 +36,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "创建一个Unity项目",
-    "headers": [],
-    "path": "/create-project/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Unity 的基本安装",
     "headers": [
       {
@@ -83,6 +76,94 @@ export const searchIndex = [
       }
     ],
     "path": "/unity-install/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Unity编辑器基础",
+    "headers": [
+      {
+        "level": 2,
+        "title": "创建一个Unity项目",
+        "slug": "创建一个unity项目",
+        "link": "#创建一个unity项目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Unity 窗口布局",
+        "slug": "unity-窗口布局",
+        "link": "#unity-窗口布局",
+        "children": [
+          {
+            "level": 3,
+            "title": "默认窗口布局",
+            "slug": "默认窗口布局",
+            "link": "#默认窗口布局",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "恢复默认窗口布局",
+            "slug": "恢复默认窗口布局",
+            "link": "#恢复默认窗口布局",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "调整字体",
+            "slug": "调整字体",
+            "link": "#调整字体",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/unity-basic/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/unity-basic/3dviewer/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "场景",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      }
+    ],
+    "path": "/unity-basic/scene/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "游戏物体",
+    "headers": [
+      {
+        "level": 2,
+        "title": "操作",
+        "slug": "操作",
+        "link": "#操作",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "移动工具",
+        "slug": "移动工具",
+        "link": "#移动工具",
+        "children": []
+      }
+    ],
+    "path": "/unity-basic/game-object/",
     "pathLocale": "/",
     "extraFields": []
   },
