@@ -7,7 +7,7 @@
 <h2 id="许可证" tabindex="-1"><a class="header-anchor" href="#许可证" aria-hidden="true">#</a> 许可证</h2>
 <p>源代码使用<a href="https://mit-license.org/" target="_blank" rel="noopener noreferrer">MIT许可证<ExternalLinkIcon/></a>，内容未经特别说明，均使用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0<ExternalLinkIcon/></a>许可</p>
 <h2 id="开始学习" tabindex="-1"><a class="header-anchor" href="#开始学习" aria-hidden="true">#</a> 开始学习</h2>
-<p><RouterLink to="/unity-beginner/">点击这里</RouterLink>开始学习</p>
+<p><RouterLink to="/unity-install/">点击这里</RouterLink>开始学习</p>
 </div></template>
 
 

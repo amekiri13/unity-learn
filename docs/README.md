@@ -16,4 +16,4 @@
 
 ## 开始学习
 
-[点击这里](/unity-beginner/)开始学习
+[点击这里](/unity-install/)开始学习

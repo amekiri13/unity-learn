@@ -17,7 +17,7 @@
 <p>对于使用Arch Linux及其衍生发行版的用户可以直接安装AUR的Unity Hub：</p>
 <div class="language-bash line-numbers-mode" data-ext="sh"><pre v-pre class="language-bash"><code>yay <span class="token parameter variable">-S</span> unityhub
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="激活许可证" tabindex="-1"><a class="header-anchor" href="#激活许可证" aria-hidden="true">#</a> 激活许可证</h2>
-<p>从Unity 5.0以后的版本都是免费的，但仍然要自行申请免费许可证</p>
+<p>从Unity 5.0以后的版本都是免费的，但需要自行申请免费许可证</p>
 <p>登录Unity ID，然后点左边的小齿轮图标（设置）-&gt;许可证</p>
 <p><img src="https://static.amekiri.com/images/2023-02-21_23-47.png" alt=""></p>
 <p><img src="https://static.amekiri.com/images/2023-02-21_23-50.png" alt=""></p>
