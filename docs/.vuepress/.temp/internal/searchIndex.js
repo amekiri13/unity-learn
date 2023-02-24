@@ -36,50 +36,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Unity 的基本安装",
-    "headers": [
-      {
-        "level": 2,
-        "title": "对于Windows用户",
-        "slug": "对于windows用户",
-        "link": "#对于windows用户",
-        "children": [
-          {
-            "level": 3,
-            "title": "打开Unity官方网站，并下载Unity Hub",
-            "slug": "打开unity官方网站-并下载unity-hub",
-            "link": "#打开unity官方网站-并下载unity-hub",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "对于Linux用户",
-        "slug": "对于linux用户",
-        "link": "#对于linux用户",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "激活许可证",
-        "slug": "激活许可证",
-        "link": "#激活许可证",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "编辑器安装",
-        "slug": "编辑器安装",
-        "link": "#编辑器安装",
-        "children": []
-      }
-    ],
-    "path": "/unity-install/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Unity编辑器基础",
     "headers": [
       {
@@ -124,24 +80,104 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
-    "headers": [],
-    "path": "/unity-basic/3dviewer/",
+    "title": "Unity 的基本安装",
+    "headers": [
+      {
+        "level": 2,
+        "title": "对于Windows用户",
+        "slug": "对于windows用户",
+        "link": "#对于windows用户",
+        "children": [
+          {
+            "level": 3,
+            "title": "打开Unity官方网站，并下载Unity Hub",
+            "slug": "打开unity官方网站-并下载unity-hub",
+            "link": "#打开unity官方网站-并下载unity-hub",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "对于Linux用户",
+        "slug": "对于linux用户",
+        "link": "#对于linux用户",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "激活许可证",
+        "slug": "激活许可证",
+        "link": "#激活许可证",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "编辑器安装",
+        "slug": "编辑器安装",
+        "link": "#编辑器安装",
+        "children": []
+      }
+    ],
+    "path": "/unity-install/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "场景",
+    "title": "3D视图",
     "headers": [
       {
         "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
+        "title": "基础",
+        "slug": "基础",
+        "link": "#基础",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "概念",
+        "slug": "概念",
+        "link": "#概念",
+        "children": [
+          {
+            "level": 3,
+            "title": "导航器",
+            "slug": "导航器",
+            "link": "#导航器",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "栅格",
+            "slug": "栅格",
+            "link": "#栅格",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "天空盒",
+            "slug": "天空盒",
+            "link": "#天空盒",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "视图相关操作",
+        "slug": "视图相关操作",
+        "link": "#视图相关操作",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "导航器相关操作",
+        "slug": "导航器相关操作",
+        "link": "#导航器相关操作",
         "children": []
       }
     ],
-    "path": "/unity-basic/scene/",
+    "path": "/unity-basic/3dview/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -164,6 +200,36 @@ export const searchIndex = [
       }
     ],
     "path": "/unity-basic/game-object/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "场景",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      }
+    ],
+    "path": "/unity-basic/scene/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "世界坐标系",
+    "headers": [
+      {
+        "level": 2,
+        "title": "物体坐标",
+        "slug": "物体坐标",
+        "link": "#物体坐标",
+        "children": []
+      }
+    ],
+    "path": "/unity-basic/world-coordinate-system/",
     "pathLocale": "/",
     "extraFields": []
   },
