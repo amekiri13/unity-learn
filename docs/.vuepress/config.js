@@ -38,8 +38,15 @@ export default defineUserConfig({
             "/unity-basic/practice/"]
         },
         {
-          text:"Unity 资源管理",
-          children:['/resources/mesh']
+          text:"Unity 资源相关",
+          children:['/resources/mesh/',
+          "/resources/material/"]
+        }
+      ],
+      navbar:[
+        {
+          text:"GitHub",
+          link:"https://github.com/amekiri13/unity-learn"
         }
       ]
     }

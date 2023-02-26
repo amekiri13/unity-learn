@@ -3,10 +3,12 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /unity-basic/
-  "v-1606ac92": defineAsyncComponent(() => import(/* webpackChunkName: "v-1606ac92" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/index.html.vue")),
   // path: /unity-install/
   "v-36821885": defineAsyncComponent(() => import(/* webpackChunkName: "v-36821885" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-install/index.html.vue")),
+  // path: /unity-basic/
+  "v-1606ac92": defineAsyncComponent(() => import(/* webpackChunkName: "v-1606ac92" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/index.html.vue")),
+  // path: /resources/material/
+  "v-1a3f68e5": defineAsyncComponent(() => import(/* webpackChunkName: "v-1a3f68e5" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/material/index.html.vue")),
   // path: /resources/mesh/
   "v-96b85142": defineAsyncComponent(() => import(/* webpackChunkName: "v-96b85142" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/mesh/index.html.vue")),
   // path: /unity-basic/3d-object/
@@ -17,10 +19,10 @@ export const pagesComponents = {
   "v-312d4387": defineAsyncComponent(() => import(/* webpackChunkName: "v-312d4387" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/game-object/index.html.vue")),
   // path: /unity-basic/object-move/
   "v-8300a7fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-8300a7fc" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/object-move/index.html.vue")),
-  // path: /unity-basic/practice/
-  "v-54d803fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-54d803fc" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/practice/index.html.vue")),
   // path: /unity-basic/perspective-and-ortho/
   "v-b3c00920": defineAsyncComponent(() => import(/* webpackChunkName: "v-b3c00920" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/perspective-and-ortho/index.html.vue")),
+  // path: /unity-basic/practice/
+  "v-54d803fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-54d803fc" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/practice/index.html.vue")),
   // path: /unity-basic/scene/
   "v-c2f91f96": defineAsyncComponent(() => import(/* webpackChunkName: "v-c2f91f96" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/scene/index.html.vue")),
   // path: /unity-basic/vision-center/

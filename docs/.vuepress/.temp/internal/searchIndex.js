@@ -36,50 +36,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Unity编辑器基础",
-    "headers": [
-      {
-        "level": 2,
-        "title": "创建一个Unity项目",
-        "slug": "创建一个unity项目",
-        "link": "#创建一个unity项目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Unity 窗口布局",
-        "slug": "unity-窗口布局",
-        "link": "#unity-窗口布局",
-        "children": [
-          {
-            "level": 3,
-            "title": "默认窗口布局",
-            "slug": "默认窗口布局",
-            "link": "#默认窗口布局",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "恢复默认窗口布局",
-            "slug": "恢复默认窗口布局",
-            "link": "#恢复默认窗口布局",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "调整字体",
-            "slug": "调整字体",
-            "link": "#调整字体",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/unity-basic/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Unity 的基本安装",
     "headers": [
       {
@@ -124,6 +80,72 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Unity编辑器基础",
+    "headers": [
+      {
+        "level": 2,
+        "title": "创建一个Unity项目",
+        "slug": "创建一个unity项目",
+        "link": "#创建一个unity项目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Unity 窗口布局",
+        "slug": "unity-窗口布局",
+        "link": "#unity-窗口布局",
+        "children": [
+          {
+            "level": 3,
+            "title": "默认窗口布局",
+            "slug": "默认窗口布局",
+            "link": "#默认窗口布局",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "恢复默认窗口布局",
+            "slug": "恢复默认窗口布局",
+            "link": "#恢复默认窗口布局",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "调整字体",
+            "slug": "调整字体",
+            "link": "#调整字体",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/unity-basic/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "材质",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "添加材质",
+        "slug": "添加材质",
+        "link": "#添加材质",
+        "children": []
+      }
+    ],
+    "path": "/resources/material/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "网格",
     "headers": [
       {
@@ -131,6 +153,13 @@ export const searchIndex = [
         "title": "定义",
         "slug": "定义",
         "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "要点与细节",
+        "slug": "要点与细节",
+        "link": "#要点与细节",
         "children": []
       }
     ],
@@ -401,13 +430,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "练习",
-    "headers": [],
-    "path": "/unity-basic/practice/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "透视与正交",
     "headers": [
       {
@@ -448,6 +470,13 @@ export const searchIndex = [
       }
     ],
     "path": "/unity-basic/perspective-and-ortho/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "练习",
+    "headers": [],
+    "path": "/unity-basic/practice/",
     "pathLocale": "/",
     "extraFields": []
   },
