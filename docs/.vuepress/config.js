@@ -1,4 +1,4 @@
-import { defineUserConfig } from 'vuepress'
+import { defaultTheme, defineUserConfig } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
@@ -17,4 +17,27 @@ export default defineUserConfig({
       },
     }),
   ],
+  theme: defaultTheme(
+    {
+      sidebar: [
+        {
+          text:"Unity 安装",
+          children:["/unity-install/"]
+        },
+        {
+          text:"Unity 基本概念与使用",
+          children:["/unity-basic/",
+            "/unity-basic/scene/",
+            "/unity-basic/game-object/",
+            "/unity-basic/3dview/",
+            "/unity-basic/world-coordinate-system/",
+            "/unity-basic/vision-center/",
+            "/unity-basic/perspective-and-ortho/",
+            "/unity-basic/3d-object/",
+            "/unity-basic/object-move/"]
+        }
+      ]
+    }
+  )
+
 })
