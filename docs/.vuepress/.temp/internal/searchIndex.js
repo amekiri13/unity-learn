@@ -36,6 +36,50 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Unity编辑器基础",
+    "headers": [
+      {
+        "level": 2,
+        "title": "创建一个Unity项目",
+        "slug": "创建一个unity项目",
+        "link": "#创建一个unity项目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Unity 窗口布局",
+        "slug": "unity-窗口布局",
+        "link": "#unity-窗口布局",
+        "children": [
+          {
+            "level": 3,
+            "title": "默认窗口布局",
+            "slug": "默认窗口布局",
+            "link": "#默认窗口布局",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "恢复默认窗口布局",
+            "slug": "恢复默认窗口布局",
+            "link": "#恢复默认窗口布局",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "调整字体",
+            "slug": "调整字体",
+            "link": "#调整字体",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/unity-basic/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Unity 的基本安装",
     "headers": [
       {
@@ -80,46 +124,17 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Unity编辑器基础",
+    "title": "网格",
     "headers": [
       {
         "level": 2,
-        "title": "创建一个Unity项目",
-        "slug": "创建一个unity项目",
-        "link": "#创建一个unity项目",
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Unity 窗口布局",
-        "slug": "unity-窗口布局",
-        "link": "#unity-窗口布局",
-        "children": [
-          {
-            "level": 3,
-            "title": "默认窗口布局",
-            "slug": "默认窗口布局",
-            "link": "#默认窗口布局",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "恢复默认窗口布局",
-            "slug": "恢复默认窗口布局",
-            "link": "#恢复默认窗口布局",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "调整字体",
-            "slug": "调整字体",
-            "link": "#调整字体",
-            "children": []
-          }
-        ]
       }
     ],
-    "path": "/unity-basic/",
+    "path": "/resources/mesh/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -182,28 +197,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "游戏物体",
-    "headers": [
-      {
-        "level": 2,
-        "title": "操作",
-        "slug": "操作",
-        "link": "#操作",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "移动工具",
-        "slug": "移动工具",
-        "link": "#移动工具",
-        "children": []
-      }
-    ],
-    "path": "/unity-basic/game-object/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "3D视图",
     "headers": [
       {
@@ -262,22 +255,29 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "场景",
+    "title": "游戏物体",
     "headers": [
       {
         "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
+        "title": "操作",
+        "slug": "操作",
+        "link": "#操作",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "移动工具",
+        "slug": "移动工具",
+        "link": "#移动工具",
         "children": []
       }
     ],
-    "path": "/unity-basic/scene/",
+    "path": "/unity-basic/game-object/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "物体的移动",
+    "title": "物体的移动，旋转与缩放",
     "headers": [
       {
         "level": 2,
@@ -285,6 +285,115 @@ export const searchIndex = [
         "slug": "基本介绍",
         "link": "#基本介绍",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "移动工具",
+        "slug": "移动工具",
+        "link": "#移动工具",
+        "children": [
+          {
+            "level": 3,
+            "title": "在坐标平面内移动",
+            "slug": "在坐标平面内移动",
+            "link": "#在坐标平面内移动",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Reset重置",
+            "slug": "reset重置",
+            "link": "#reset重置",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "旋转工具",
+        "slug": "旋转工具",
+        "link": "#旋转工具",
+        "children": [
+          {
+            "level": 3,
+            "title": "使用",
+            "slug": "使用",
+            "link": "#使用",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "缩放工具",
+        "slug": "缩放工具",
+        "link": "#缩放工具",
+        "children": [
+          {
+            "level": 3,
+            "title": "轴向缩放",
+            "slug": "轴向缩放",
+            "link": "#轴向缩放",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "整体缩放",
+            "slug": "整体缩放",
+            "link": "#整体缩放",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "要点与细节",
+        "slug": "要点与细节",
+        "link": "#要点与细节",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "更多操作",
+        "slug": "更多操作",
+        "link": "#更多操作",
+        "children": [
+          {
+            "level": 3,
+            "title": "多选",
+            "slug": "多选",
+            "link": "#多选",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "复制",
+            "slug": "复制",
+            "link": "#复制",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "聚焦",
+            "slug": "聚焦",
+            "link": "#聚焦",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "激活 Active",
+            "slug": "激活-active",
+            "link": "#激活-active",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "对齐",
+            "slug": "对齐",
+            "link": "#对齐",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/unity-basic/object-move/",
@@ -292,31 +401,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "视野中心",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "框选所选",
-        "slug": "框选所选",
-        "link": "#框选所选",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "其他",
-        "slug": "其他",
-        "link": "#其他",
-        "children": []
-      }
-    ],
-    "path": "/unity-basic/vision-center/",
+    "title": "练习",
+    "headers": [],
+    "path": "/unity-basic/practice/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -361,6 +448,50 @@ export const searchIndex = [
       }
     ],
     "path": "/unity-basic/perspective-and-ortho/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "场景",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      }
+    ],
+    "path": "/unity-basic/scene/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "视野中心",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "框选所选",
+        "slug": "框选所选",
+        "link": "#框选所选",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "其他",
+        "slug": "其他",
+        "link": "#其他",
+        "children": []
+      }
+    ],
+    "path": "/unity-basic/vision-center/",
     "pathLocale": "/",
     "extraFields": []
   },

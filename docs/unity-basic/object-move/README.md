@@ -76,7 +76,6 @@ Edit->Grid and Snap Settings 栅格吸附设定(我这个版本好像没有？)
 ![](https://static.amekiri.com/images/hudgs-ruykb.gif)
 
 ### 整体缩放
-grj13-ebyh8.gif
 拖动中心的方块即可
 
 ![](https://static.amekiri.com/images/grj13-ebyh8.gif)
@@ -96,3 +95,30 @@ grj13-ebyh8.gif
 ![](https://static.amekiri.com/images/2023-02-26_17-42.png)
 
 即使物体被挡住，也是可以操作的
+
+## 更多操作
+
+### 多选
+- 按Ctrl或Shift 多选
+- 在3D视图中，鼠标框选
+
+### 复制
+- 选中物体，Ctrl+D复制物体
+- 右键 Duplicate
+
+### 聚焦
+- 选中物体，按F键，置于视图中心
+- 或者双击物体
+
+### 激活 Active
+- 选择物体，在检查器中激活/禁用物体
+
+![](https://static.amekiri.com/images/2023-02-26_19-28.png)
+
+### 对齐
+
+对于初学者，直接目视对齐即可
+
+进入正交顶视图/正交右视图/正交后视图，方便观察
+
+切换到[正交视图](/unity-basic/perspective-and-ortho/#切换正交视图)

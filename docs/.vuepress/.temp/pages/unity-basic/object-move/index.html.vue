@@ -50,8 +50,7 @@ Edit-&gt;Grid and Snap Settings 栅格吸附设定(我这个版本好像没有�
 <p>拖动对应轴即可</p>
 <p><img src="https://static.amekiri.com/images/hudgs-ruykb.gif" alt=""></p>
 <h3 id="整体缩放" tabindex="-1"><a class="header-anchor" href="#整体缩放" aria-hidden="true">#</a> 整体缩放</h3>
-<p>grj13-ebyh8.gif
-拖动中心的方块即可</p>
+<p>拖动中心的方块即可</p>
 <p><img src="https://static.amekiri.com/images/grj13-ebyh8.gif" alt=""></p>
 <h2 id="要点与细节" tabindex="-1"><a class="header-anchor" href="#要点与细节" aria-hidden="true">#</a> 要点与细节</h2>
 <ol>
@@ -70,6 +69,31 @@ Edit-&gt;Grid and Snap Settings 栅格吸附设定(我这个版本好像没有�
 </ol>
 <p><img src="https://static.amekiri.com/images/2023-02-26_17-42.png" alt=""></p>
 <p>即使物体被挡住，也是可以操作的</p>
+<h2 id="更多操作" tabindex="-1"><a class="header-anchor" href="#更多操作" aria-hidden="true">#</a> 更多操作</h2>
+<h3 id="多选" tabindex="-1"><a class="header-anchor" href="#多选" aria-hidden="true">#</a> 多选</h3>
+<ul>
+<li>按Ctrl或Shift 多选</li>
+<li>在3D视图中，鼠标框选</li>
+</ul>
+<h3 id="复制" tabindex="-1"><a class="header-anchor" href="#复制" aria-hidden="true">#</a> 复制</h3>
+<ul>
+<li>选中物体，Ctrl+D复制物体</li>
+<li>右键 Duplicate</li>
+</ul>
+<h3 id="聚焦" tabindex="-1"><a class="header-anchor" href="#聚焦" aria-hidden="true">#</a> 聚焦</h3>
+<ul>
+<li>选中物体，按F键，置于视图中心</li>
+<li>或者双击物体</li>
+</ul>
+<h3 id="激活-active" tabindex="-1"><a class="header-anchor" href="#激活-active" aria-hidden="true">#</a> 激活 Active</h3>
+<ul>
+<li>选择物体，在检查器中激活/禁用物体</li>
+</ul>
+<p><img src="https://static.amekiri.com/images/2023-02-26_19-28.png" alt=""></p>
+<h3 id="对齐" tabindex="-1"><a class="header-anchor" href="#对齐" aria-hidden="true">#</a> 对齐</h3>
+<p>对于初学者，直接目视对齐即可</p>
+<p>进入正交顶视图/正交右视图/正交后视图，方便观察</p>
+<p>切换到<RouterLink to="/unity-basic/perspective-and-ortho/#%E5%88%87%E6%8D%A2%E6%AD%A3%E4%BA%A4%E8%A7%86%E5%9B%BE">正交视图</RouterLink></p>
 </div></template>
 
 

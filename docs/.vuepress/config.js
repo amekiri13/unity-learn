@@ -34,7 +34,12 @@ export default defineUserConfig({
             "/unity-basic/vision-center/",
             "/unity-basic/perspective-and-ortho/",
             "/unity-basic/3d-object/",
-            "/unity-basic/object-move/"]
+            "/unity-basic/object-move/",
+            "/unity-basic/practice/"]
+        },
+        {
+          text:"Unity 资源管理",
+          children:['/resources/mesh']
         }
       ]
     }
