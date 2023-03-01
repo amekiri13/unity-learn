@@ -5,6 +5,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'Unity 基础教程',
   description: '',
+  base:'/',
   plugins: [
     searchPlugin({
       locales: {

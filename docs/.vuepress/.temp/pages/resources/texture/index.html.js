@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-26df11d7\",\"path\":\"/resources/texture/\",\"title\":\"纹理\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"定义\",\"slug\":\"定义\",\"link\":\"#定义\",\"children\":[]},{\"level\":2,\"title\":\"使用\",\"slug\":\"使用\",\"link\":\"#使用\",\"children\":[]},{\"level\":2,\"title\":\"其他\",\"slug\":\"其他\",\"link\":\"#其他\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"resources/texture/README.md\"}")
+export const data = JSON.parse("{\"key\":\"v-26df11d7\",\"path\":\"/resources/texture/\",\"title\":\"纹理\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"定义\",\"slug\":\"定义\",\"link\":\"#定义\",\"children\":[]},{\"level\":2,\"title\":\"使用\",\"slug\":\"使用\",\"link\":\"#使用\",\"children\":[]},{\"level\":2,\"title\":\"其他\",\"slug\":\"其他\",\"link\":\"#其他\",\"children\":[]}],\"git\":{\"updatedTime\":1677684480000,\"contributors\":[{\"name\":\"amekiri13\",\"email\":\"admin@amekiri.com\",\"commits\":1}]},\"filePathRelative\":\"resources/texture/README.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

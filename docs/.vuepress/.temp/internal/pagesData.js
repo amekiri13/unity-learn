@@ -5,18 +5,6 @@ export const pagesData = {
   "v-1606ac92": () => import(/* webpackChunkName: "v-1606ac92" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/index.html.js").then(({ data }) => data),
   // path: /unity-install/
   "v-36821885": () => import(/* webpackChunkName: "v-36821885" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-install/index.html.js").then(({ data }) => data),
-  // path: /resources/ex-model/
-  "v-2ef6d17d": () => import(/* webpackChunkName: "v-2ef6d17d" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/ex-model/index.html.js").then(({ data }) => data),
-  // path: /resources/fbx-import/
-  "v-2d725156": () => import(/* webpackChunkName: "v-2d725156" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/fbx-import/index.html.js").then(({ data }) => data),
-  // path: /resources/material/
-  "v-1a3f68e5": () => import(/* webpackChunkName: "v-1a3f68e5" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/material/index.html.js").then(({ data }) => data),
-  // path: /resources/mesh/
-  "v-96b85142": () => import(/* webpackChunkName: "v-96b85142" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/mesh/index.html.js").then(({ data }) => data),
-  // path: /resources/model-other/
-  "v-c7a507b4": () => import(/* webpackChunkName: "v-c7a507b4" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/model-other/index.html.js").then(({ data }) => data),
-  // path: /resources/texture/
-  "v-26df11d7": () => import(/* webpackChunkName: "v-26df11d7" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/texture/index.html.js").then(({ data }) => data),
   // path: /unity-basic/3d-object/
   "v-63d9a8b4": () => import(/* webpackChunkName: "v-63d9a8b4" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/3d-object/index.html.js").then(({ data }) => data),
   // path: /unity-basic/3dview/
@@ -35,6 +23,18 @@ export const pagesData = {
   "v-401adaa7": () => import(/* webpackChunkName: "v-401adaa7" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/vision-center/index.html.js").then(({ data }) => data),
   // path: /unity-basic/world-coordinate-system/
   "v-ef0b7d90": () => import(/* webpackChunkName: "v-ef0b7d90" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/world-coordinate-system/index.html.js").then(({ data }) => data),
+  // path: /resources/ex-model/
+  "v-2ef6d17d": () => import(/* webpackChunkName: "v-2ef6d17d" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/ex-model/index.html.js").then(({ data }) => data),
+  // path: /resources/fbx-import/
+  "v-2d725156": () => import(/* webpackChunkName: "v-2d725156" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/fbx-import/index.html.js").then(({ data }) => data),
+  // path: /resources/material/
+  "v-1a3f68e5": () => import(/* webpackChunkName: "v-1a3f68e5" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/material/index.html.js").then(({ data }) => data),
+  // path: /resources/mesh/
+  "v-96b85142": () => import(/* webpackChunkName: "v-96b85142" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/mesh/index.html.js").then(({ data }) => data),
+  // path: /resources/model-other/
+  "v-c7a507b4": () => import(/* webpackChunkName: "v-c7a507b4" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/model-other/index.html.js").then(({ data }) => data),
+  // path: /resources/texture/
+  "v-26df11d7": () => import(/* webpackChunkName: "v-26df11d7" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/texture/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
