@@ -36,8 +36,9 @@
 </li>
 </ul>
 <p><img src="https://static.amekiri.com/images/2023-02-26_21-45.png" alt=""></p>
-<p>也可以先锁定Inspector后将材质拖到Mesh Renderer下面的Material(鼠标不要松手)</p>
+<p>可以将材质拖动到Inspector的Mesh Renderer的Material(鼠标左键不要松)</p>
 <p><img src="https://static.amekiri.com/images/uy0uz-yqyg0.gif" alt=""></p>
+<p>也可以先锁定Inspector后将材质拖到Mesh Renderer下面的Material</p>
 </div></template>
 
 

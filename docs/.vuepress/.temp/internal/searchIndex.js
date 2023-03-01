@@ -36,50 +36,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Unity 的基本安装",
-    "headers": [
-      {
-        "level": 2,
-        "title": "对于Windows用户",
-        "slug": "对于windows用户",
-        "link": "#对于windows用户",
-        "children": [
-          {
-            "level": 3,
-            "title": "打开Unity官方网站，并下载Unity Hub",
-            "slug": "打开unity官方网站-并下载unity-hub",
-            "link": "#打开unity官方网站-并下载unity-hub",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "对于Linux用户",
-        "slug": "对于linux用户",
-        "link": "#对于linux用户",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "激活许可证",
-        "slug": "激活许可证",
-        "link": "#激活许可证",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "编辑器安装",
-        "slug": "编辑器安装",
-        "link": "#编辑器安装",
-        "children": []
-      }
-    ],
-    "path": "/unity-install/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Unity编辑器基础",
     "headers": [
       {
@@ -124,6 +80,79 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Unity 的基本安装",
+    "headers": [
+      {
+        "level": 2,
+        "title": "对于Windows用户",
+        "slug": "对于windows用户",
+        "link": "#对于windows用户",
+        "children": [
+          {
+            "level": 3,
+            "title": "打开Unity官方网站，并下载Unity Hub",
+            "slug": "打开unity官方网站-并下载unity-hub",
+            "link": "#打开unity官方网站-并下载unity-hub",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "对于Linux用户",
+        "slug": "对于linux用户",
+        "link": "#对于linux用户",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "激活许可证",
+        "slug": "激活许可证",
+        "link": "#激活许可证",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "编辑器安装",
+        "slug": "编辑器安装",
+        "link": "#编辑器安装",
+        "children": []
+      }
+    ],
+    "path": "/unity-install/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "外部模型",
+    "headers": [
+      {
+        "level": 2,
+        "title": "前言",
+        "slug": "前言",
+        "link": "#前言",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "操作",
+        "slug": "操作",
+        "link": "#操作",
+        "children": []
+      }
+    ],
+    "path": "/resources/ex-model/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "FBX文件的使用",
+    "headers": [],
+    "path": "/resources/fbx-import/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "材质",
     "headers": [
       {
@@ -138,6 +167,13 @@ export const searchIndex = [
         "title": "添加材质",
         "slug": "添加材质",
         "link": "#添加材质",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "关联组件",
+        "slug": "关联组件",
+        "link": "#关联组件",
         "children": []
       }
     ],
@@ -164,6 +200,65 @@ export const searchIndex = [
       }
     ],
     "path": "/resources/mesh/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "模型相关的其他细节",
+    "headers": [
+      {
+        "level": 2,
+        "title": "关于平面",
+        "slug": "关于平面",
+        "link": "#关于平面",
+        "children": [
+          {
+            "level": 3,
+            "title": "正面、背面",
+            "slug": "正面、背面",
+            "link": "#正面、背面",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "默认材质",
+        "slug": "默认材质",
+        "link": "#默认材质",
+        "children": []
+      }
+    ],
+    "path": "/resources/model-other/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "纹理",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "使用",
+        "slug": "使用",
+        "link": "#使用",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "其他",
+        "slug": "其他",
+        "link": "#其他",
+        "children": []
+      }
+    ],
+    "path": "/resources/texture/",
     "pathLocale": "/",
     "extraFields": []
   },

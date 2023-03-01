@@ -40,7 +40,11 @@ export default defineUserConfig({
         {
           text:"Unity 资源相关",
           children:['/resources/mesh/',
-          "/resources/material/"]
+          "/resources/material/",
+          "/resources/texture/",
+          "/resources/ex-model/",
+          "/resources/model-other/",
+          "/resources/fbx-import/"]
         }
       ],
       navbar:[

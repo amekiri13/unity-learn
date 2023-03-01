@@ -3,14 +3,22 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /unity-install/
-  "v-36821885": defineAsyncComponent(() => import(/* webpackChunkName: "v-36821885" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-install/index.html.vue")),
   // path: /unity-basic/
   "v-1606ac92": defineAsyncComponent(() => import(/* webpackChunkName: "v-1606ac92" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/index.html.vue")),
+  // path: /unity-install/
+  "v-36821885": defineAsyncComponent(() => import(/* webpackChunkName: "v-36821885" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-install/index.html.vue")),
+  // path: /resources/ex-model/
+  "v-2ef6d17d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ef6d17d" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/ex-model/index.html.vue")),
+  // path: /resources/fbx-import/
+  "v-2d725156": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d725156" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/fbx-import/index.html.vue")),
   // path: /resources/material/
   "v-1a3f68e5": defineAsyncComponent(() => import(/* webpackChunkName: "v-1a3f68e5" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/material/index.html.vue")),
   // path: /resources/mesh/
   "v-96b85142": defineAsyncComponent(() => import(/* webpackChunkName: "v-96b85142" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/mesh/index.html.vue")),
+  // path: /resources/model-other/
+  "v-c7a507b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-c7a507b4" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/model-other/index.html.vue")),
+  // path: /resources/texture/
+  "v-26df11d7": defineAsyncComponent(() => import(/* webpackChunkName: "v-26df11d7" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/resources/texture/index.html.vue")),
   // path: /unity-basic/3d-object/
   "v-63d9a8b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-63d9a8b4" */"/home/amekiri/文档/UnityLearnDocs/docs/.vuepress/.temp/pages/unity-basic/3d-object/index.html.vue")),
   // path: /unity-basic/3dview/
