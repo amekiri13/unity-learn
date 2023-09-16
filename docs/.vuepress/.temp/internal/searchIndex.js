@@ -4,6 +4,13 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "重要：此教程将停止更新",
+        "slug": "重要-此教程将停止更新",
+        "link": "#重要-此教程将停止更新",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "前言",
         "slug": "前言",
         "link": "#前言",
@@ -120,6 +127,145 @@ export const searchIndex = [
       }
     ],
     "path": "/unity-install/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "外部模型",
+    "headers": [
+      {
+        "level": 2,
+        "title": "前言",
+        "slug": "前言",
+        "link": "#前言",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "操作",
+        "slug": "操作",
+        "link": "#操作",
+        "children": []
+      }
+    ],
+    "path": "/resources/ex-model/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "FBX文件的使用",
+    "headers": [],
+    "path": "/resources/fbx-import/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "材质",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "添加材质",
+        "slug": "添加材质",
+        "link": "#添加材质",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "关联组件",
+        "slug": "关联组件",
+        "link": "#关联组件",
+        "children": []
+      }
+    ],
+    "path": "/resources/material/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "网格",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "要点与细节",
+        "slug": "要点与细节",
+        "link": "#要点与细节",
+        "children": []
+      }
+    ],
+    "path": "/resources/mesh/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "模型相关的其他细节",
+    "headers": [
+      {
+        "level": 2,
+        "title": "关于平面",
+        "slug": "关于平面",
+        "link": "#关于平面",
+        "children": [
+          {
+            "level": 3,
+            "title": "正面、背面",
+            "slug": "正面、背面",
+            "link": "#正面、背面",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "默认材质",
+        "slug": "默认材质",
+        "link": "#默认材质",
+        "children": []
+      }
+    ],
+    "path": "/resources/model-other/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "纹理",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "使用",
+        "slug": "使用",
+        "link": "#使用",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "其他",
+        "slug": "其他",
+        "link": "#其他",
+        "children": []
+      }
+    ],
+    "path": "/resources/texture/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -499,145 +645,6 @@ export const searchIndex = [
       }
     ],
     "path": "/unity-basic/world-coordinate-system/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "外部模型",
-    "headers": [
-      {
-        "level": 2,
-        "title": "前言",
-        "slug": "前言",
-        "link": "#前言",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "操作",
-        "slug": "操作",
-        "link": "#操作",
-        "children": []
-      }
-    ],
-    "path": "/resources/ex-model/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "FBX文件的使用",
-    "headers": [],
-    "path": "/resources/fbx-import/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "材质",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "添加材质",
-        "slug": "添加材质",
-        "link": "#添加材质",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "关联组件",
-        "slug": "关联组件",
-        "link": "#关联组件",
-        "children": []
-      }
-    ],
-    "path": "/resources/material/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "网格",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "要点与细节",
-        "slug": "要点与细节",
-        "link": "#要点与细节",
-        "children": []
-      }
-    ],
-    "path": "/resources/mesh/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "模型相关的其他细节",
-    "headers": [
-      {
-        "level": 2,
-        "title": "关于平面",
-        "slug": "关于平面",
-        "link": "#关于平面",
-        "children": [
-          {
-            "level": 3,
-            "title": "正面、背面",
-            "slug": "正面、背面",
-            "link": "#正面、背面",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "默认材质",
-        "slug": "默认材质",
-        "link": "#默认材质",
-        "children": []
-      }
-    ],
-    "path": "/resources/model-other/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "纹理",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "使用",
-        "slug": "使用",
-        "link": "#使用",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "其他",
-        "slug": "其他",
-        "link": "#其他",
-        "children": []
-      }
-    ],
-    "path": "/resources/texture/",
     "pathLocale": "/",
     "extraFields": []
   },
